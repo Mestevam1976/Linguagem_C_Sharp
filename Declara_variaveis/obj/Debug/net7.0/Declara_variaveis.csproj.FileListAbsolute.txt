@@ -1,0 +1,15 @@
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/bin/Debug/net7.0/Declara_variaveis
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/bin/Debug/net7.0/Declara_variaveis.deps.json
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/bin/Debug/net7.0/Declara_variaveis.runtimeconfig.json
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/bin/Debug/net7.0/Declara_variaveis.dll
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/bin/Debug/net7.0/Declara_variaveis.pdb
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/Declara_variaveis.csproj.AssemblyReference.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/Declara_variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/Declara_variaveis.AssemblyInfoInputs.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/Declara_variaveis.AssemblyInfo.cs
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/Declara_variaveis.csproj.CoreCompileInputs.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/Declara_variaveis.dll
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/refint/Declara_variaveis.dll
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/Declara_variaveis.pdb
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/Declara_variaveis.genruntimeconfig.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Declara_variaveis/obj/Debug/net7.0/ref/Declara_variaveis.dll

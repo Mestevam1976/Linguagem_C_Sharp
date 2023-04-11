@@ -1,0 +1,9 @@
+D:\Certificados Udemy\Linguagem_C#\Casting\obj\Debug\Casting.csproj.AssemblyReference.cache
+D:\Certificados Udemy\Linguagem_C#\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Casting\bin\Debug\Casting.pdb
+D:\Certificados Udemy\Linguagem_C#\Casting\obj\Debug\Casting.pdb
+D:\Certificados Udemy\Linguagem_C#\Casting\obj\Debug\Casting.Properties.Resources.resources
+D:\Certificados Udemy\Linguagem_C#\Casting\obj\Debug\Casting.csproj.GenerateResource.cache
+D:\Certificados Udemy\Linguagem_C#\Casting\bin\Debug\Casting.exe.config
+D:\Certificados Udemy\Linguagem_C#\Casting\bin\Debug\Casting.exe
+D:\Certificados Udemy\Linguagem_C#\Casting\obj\Debug\Casting.exe

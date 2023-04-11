@@ -1,0 +1,16 @@
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Certificados Udemy\Linguagem_C#\Programa_01\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

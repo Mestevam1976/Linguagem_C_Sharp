@@ -1,0 +1,15 @@
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/bin/Debug/net7.0/Saida_Dados_C#
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/bin/Debug/net7.0/Saida_Dados_C#.deps.json
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/bin/Debug/net7.0/Saida_Dados_C#.runtimeconfig.json
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/bin/Debug/net7.0/Saida_Dados_C#.dll
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/bin/Debug/net7.0/Saida_Dados_C#.pdb
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/Saida_Dados_C#.csproj.AssemblyReference.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/Saida_Dados_C#.GeneratedMSBuildEditorConfig.editorconfig
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/Saida_Dados_C#.AssemblyInfoInputs.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/Saida_Dados_C#.AssemblyInfo.cs
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/Saida_Dados_C#.csproj.CoreCompileInputs.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/Saida_Dados_C#.dll
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/refint/Saida_Dados_C#.dll
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/Saida_Dados_C#.pdb
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/Saida_Dados_C#.genruntimeconfig.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/obj/Debug/net7.0/ref/Saida_Dados_C#.dll

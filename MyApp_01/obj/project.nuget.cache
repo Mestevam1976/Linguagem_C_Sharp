@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iUyUmK4QaVvrXRQDbI4XuCaAWjPbXTNHsTSmm04S0BCxSXa63IejifwZRzS0uG4h4ZlXpId0mJcp3fgheQi75g==",
+  "success": true,
+  "projectFilePath": "/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/MyApp_01.csproj",
+  "expectedPackageFiles": [
+    "/home/marcio/.nuget/packages/microsoft.netcore.app.ref/7.0.4/microsoft.netcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/marcio/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/marcio/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.4/microsoft.netcore.app.host.linux-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

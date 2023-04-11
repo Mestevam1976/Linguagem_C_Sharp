@@ -1,0 +1,7 @@
+D:\Certificados Udemy\Linguagem_C#\Projeto_01\Projeto_01\bin\Debug\Projeto_01.exe.config
+D:\Certificados Udemy\Linguagem_C#\Projeto_01\Projeto_01\bin\Debug\Projeto_01.exe
+D:\Certificados Udemy\Linguagem_C#\Projeto_01\Projeto_01\bin\Debug\Projeto_01.pdb
+D:\Certificados Udemy\Linguagem_C#\Projeto_01\Projeto_01\obj\Debug\Projeto_01.csproj.AssemblyReference.cache
+D:\Certificados Udemy\Linguagem_C#\Projeto_01\Projeto_01\obj\Debug\Projeto_01.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Projeto_01\Projeto_01\obj\Debug\Projeto_01.exe
+D:\Certificados Udemy\Linguagem_C#\Projeto_01\Projeto_01\obj\Debug\Projeto_01.pdb

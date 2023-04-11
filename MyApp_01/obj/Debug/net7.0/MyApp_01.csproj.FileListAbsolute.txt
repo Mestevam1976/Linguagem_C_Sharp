@@ -1,0 +1,15 @@
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/bin/Debug/net7.0/MyApp_01
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/bin/Debug/net7.0/MyApp_01.deps.json
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/bin/Debug/net7.0/MyApp_01.runtimeconfig.json
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/bin/Debug/net7.0/MyApp_01.dll
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/bin/Debug/net7.0/MyApp_01.pdb
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/MyApp_01.csproj.AssemblyReference.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/MyApp_01.GeneratedMSBuildEditorConfig.editorconfig
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/MyApp_01.AssemblyInfoInputs.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/MyApp_01.AssemblyInfo.cs
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/MyApp_01.csproj.CoreCompileInputs.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/MyApp_01.dll
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/refint/MyApp_01.dll
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/MyApp_01.pdb
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/MyApp_01.genruntimeconfig.cache
+/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/MyApp_01/obj/Debug/net7.0/ref/MyApp_01.dll

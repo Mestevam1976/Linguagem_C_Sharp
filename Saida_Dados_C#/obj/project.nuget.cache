@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6n5IFRHt8dLH/CVPyccOQsxfjieLm8/L9x96DrXDS8wWXNHYZfTumXejpV05qItLEvr0OdW57s/qREyhGipY9g==",
+  "success": true,
+  "projectFilePath": "/media/marcio/0254C86154C858D5/Certificados Udemy/Linguagem_C#/Saida_Dados_C#/Saida_Dados_C#.csproj",
+  "expectedPackageFiles": [
+    "/home/marcio/.nuget/packages/microsoft.netcore.app.ref/7.0.4/microsoft.netcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/marcio/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/marcio/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.4/microsoft.netcore.app.host.linux-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
