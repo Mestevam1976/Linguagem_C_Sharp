@@ -1,0 +1,16 @@
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\bin\Debug\net5.0\Entrada_Dados.exe
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\bin\Debug\net5.0\Entrada_Dados.deps.json
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\bin\Debug\net5.0\Entrada_Dados.runtimeconfig.json
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\bin\Debug\net5.0\Entrada_Dados.runtimeconfig.dev.json
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\bin\Debug\net5.0\Entrada_Dados.dll
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\bin\Debug\net5.0\ref\Entrada_Dados.dll
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\bin\Debug\net5.0\Entrada_Dados.pdb
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\obj\Debug\net5.0\Entrada_Dados.csproj.AssemblyReference.cache
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\obj\Debug\net5.0\Entrada_Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\obj\Debug\net5.0\Entrada_Dados.AssemblyInfoInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\obj\Debug\net5.0\Entrada_Dados.AssemblyInfo.cs
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\obj\Debug\net5.0\Entrada_Dados.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\obj\Debug\net5.0\Entrada_Dados.dll
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\obj\Debug\net5.0\ref\Entrada_Dados.dll
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\obj\Debug\net5.0\Entrada_Dados.pdb
+D:\Certificados Udemy\Linguagem_C#\Entrada_Dados\Entrada_Dados\obj\Debug\net5.0\Entrada_Dados.genruntimeconfig.cache

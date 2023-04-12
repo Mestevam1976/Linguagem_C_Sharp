@@ -1,0 +1,15 @@
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\bin\Debug\net5.0\Exercicio_02.exe
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\bin\Debug\net5.0\Exercicio_02.deps.json
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\bin\Debug\net5.0\Exercicio_02.runtimeconfig.json
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\bin\Debug\net5.0\Exercicio_02.runtimeconfig.dev.json
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\bin\Debug\net5.0\Exercicio_02.dll
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\bin\Debug\net5.0\ref\Exercicio_02.dll
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\bin\Debug\net5.0\Exercicio_02.pdb
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\obj\Debug\net5.0\Exercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\obj\Debug\net5.0\Exercicio_02.AssemblyInfoInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\obj\Debug\net5.0\Exercicio_02.AssemblyInfo.cs
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\obj\Debug\net5.0\Exercicio_02.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\obj\Debug\net5.0\Exercicio_02.dll
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\obj\Debug\net5.0\ref\Exercicio_02.dll
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\obj\Debug\net5.0\Exercicio_02.pdb
+D:\Certificados Udemy\Linguagem_C#\Exercicio_02\Exercicio_02\obj\Debug\net5.0\Exercicio_02.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\bin\Debug\net5.0\Estrutura_Enquanto.exe
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\bin\Debug\net5.0\Estrutura_Enquanto.deps.json
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\bin\Debug\net5.0\Estrutura_Enquanto.runtimeconfig.json
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\bin\Debug\net5.0\Estrutura_Enquanto.runtimeconfig.dev.json
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\bin\Debug\net5.0\Estrutura_Enquanto.dll
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\bin\Debug\net5.0\ref\Estrutura_Enquanto.dll
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\bin\Debug\net5.0\Estrutura_Enquanto.pdb
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\obj\Debug\net5.0\Estrutura_Enquanto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\obj\Debug\net5.0\Estrutura_Enquanto.AssemblyInfoInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\obj\Debug\net5.0\Estrutura_Enquanto.AssemblyInfo.cs
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\obj\Debug\net5.0\Estrutura_Enquanto.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\obj\Debug\net5.0\Estrutura_Enquanto.dll
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\obj\Debug\net5.0\ref\Estrutura_Enquanto.dll
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\obj\Debug\net5.0\Estrutura_Enquanto.pdb
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Enquanto\Estrutura_Enquanto\obj\Debug\net5.0\Estrutura_Enquanto.genruntimeconfig.cache

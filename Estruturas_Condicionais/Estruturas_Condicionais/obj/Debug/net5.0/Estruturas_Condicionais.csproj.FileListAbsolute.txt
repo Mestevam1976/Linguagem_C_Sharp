@@ -1,0 +1,15 @@
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\bin\Debug\net5.0\Estruturas_Condicionais.exe
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\bin\Debug\net5.0\Estruturas_Condicionais.deps.json
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\bin\Debug\net5.0\Estruturas_Condicionais.runtimeconfig.json
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\bin\Debug\net5.0\Estruturas_Condicionais.runtimeconfig.dev.json
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\bin\Debug\net5.0\Estruturas_Condicionais.dll
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\bin\Debug\net5.0\ref\Estruturas_Condicionais.dll
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\bin\Debug\net5.0\Estruturas_Condicionais.pdb
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\obj\Debug\net5.0\Estruturas_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\obj\Debug\net5.0\Estruturas_Condicionais.AssemblyInfoInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\obj\Debug\net5.0\Estruturas_Condicionais.AssemblyInfo.cs
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\obj\Debug\net5.0\Estruturas_Condicionais.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\obj\Debug\net5.0\Estruturas_Condicionais.dll
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\obj\Debug\net5.0\ref\Estruturas_Condicionais.dll
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\obj\Debug\net5.0\Estruturas_Condicionais.pdb
+D:\Certificados Udemy\Linguagem_C#\Estruturas_Condicionais\Estruturas_Condicionais\obj\Debug\net5.0\Estruturas_Condicionais.genruntimeconfig.cache

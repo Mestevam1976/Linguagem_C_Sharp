@@ -1,0 +1,16 @@
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\bin\Debug\net5.0\Uso_Debugger.exe
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\bin\Debug\net5.0\Uso_Debugger.deps.json
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\bin\Debug\net5.0\Uso_Debugger.runtimeconfig.json
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\bin\Debug\net5.0\Uso_Debugger.runtimeconfig.dev.json
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\bin\Debug\net5.0\Uso_Debugger.dll
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\bin\Debug\net5.0\ref\Uso_Debugger.dll
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\bin\Debug\net5.0\Uso_Debugger.pdb
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\obj\Debug\net5.0\Uso_Debugger.csproj.AssemblyReference.cache
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\obj\Debug\net5.0\Uso_Debugger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\obj\Debug\net5.0\Uso_Debugger.AssemblyInfoInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\obj\Debug\net5.0\Uso_Debugger.AssemblyInfo.cs
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\obj\Debug\net5.0\Uso_Debugger.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\obj\Debug\net5.0\Uso_Debugger.dll
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\obj\Debug\net5.0\ref\Uso_Debugger.dll
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\obj\Debug\net5.0\Uso_Debugger.pdb
+D:\Certificados Udemy\Linguagem_C#\Uso_Debugger\Uso_Debugger\obj\Debug\net5.0\Uso_Debugger.genruntimeconfig.cache

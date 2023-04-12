@@ -1,0 +1,16 @@
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\bin\Debug\net5.0\Estrutura_Para.exe
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\bin\Debug\net5.0\Estrutura_Para.deps.json
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\bin\Debug\net5.0\Estrutura_Para.runtimeconfig.json
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\bin\Debug\net5.0\Estrutura_Para.runtimeconfig.dev.json
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\bin\Debug\net5.0\Estrutura_Para.dll
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\bin\Debug\net5.0\ref\Estrutura_Para.dll
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\bin\Debug\net5.0\Estrutura_Para.pdb
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\obj\Debug\net5.0\Estrutura_Para.csproj.AssemblyReference.cache
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\obj\Debug\net5.0\Estrutura_Para.GeneratedMSBuildEditorConfig.editorconfig
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\obj\Debug\net5.0\Estrutura_Para.AssemblyInfoInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\obj\Debug\net5.0\Estrutura_Para.AssemblyInfo.cs
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\obj\Debug\net5.0\Estrutura_Para.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\obj\Debug\net5.0\Estrutura_Para.dll
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\obj\Debug\net5.0\ref\Estrutura_Para.dll
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\obj\Debug\net5.0\Estrutura_Para.pdb
+D:\Certificados Udemy\Linguagem_C#\Estrutura_Para\Estrutura_Para\obj\Debug\net5.0\Estrutura_Para.genruntimeconfig.cache

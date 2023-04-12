@@ -1,0 +1,15 @@
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\bin\Debug\net5.0\Vetores_C_Sharp.exe
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\bin\Debug\net5.0\Vetores_C_Sharp.deps.json
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\bin\Debug\net5.0\Vetores_C_Sharp.runtimeconfig.json
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\bin\Debug\net5.0\Vetores_C_Sharp.runtimeconfig.dev.json
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\bin\Debug\net5.0\Vetores_C_Sharp.dll
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\bin\Debug\net5.0\ref\Vetores_C_Sharp.dll
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\bin\Debug\net5.0\Vetores_C_Sharp.pdb
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\obj\Debug\net5.0\Vetores_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\obj\Debug\net5.0\Vetores_C_Sharp.AssemblyInfoInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\obj\Debug\net5.0\Vetores_C_Sharp.AssemblyInfo.cs
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\obj\Debug\net5.0\Vetores_C_Sharp.csproj.CoreCompileInputs.cache
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\obj\Debug\net5.0\Vetores_C_Sharp.dll
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\obj\Debug\net5.0\ref\Vetores_C_Sharp.dll
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\obj\Debug\net5.0\Vetores_C_Sharp.pdb
+D:\Certificados Udemy\Linguagem_C#\Vetores_C_Sharp\Vetores_C_Sharp\obj\Debug\net5.0\Vetores_C_Sharp.genruntimeconfig.cache
